@@ -464,6 +464,64 @@ Return:
     }
 }
 
+EXAMPLE 4:
+
+User:
+Find tent or RV camping in Virginia under $40
+
+Return:
+
+{
+"intent": "hotel_search",
+"filters": {
+    "regionName": "Virginia",
+    "resorttype": [
+        "Tent",
+        "RV"
+    ],
+    "age": null,
+    "season": null,
+    "minPrice": null,
+    "maxPrice": 40,
+    "minStar": null,
+    "addressCountry": null
+},
+
+"sort": {
+    "field": null,
+    "direction": null
+}
+}
+
+EXAMPLE 5:
+
+User:
+Find tent and RV camping in Virginia under $40
+
+Return:
+
+{
+"intent": "hotel_search",
+"filters": {
+    "regionName": "Virginia",
+    "resorttype": [
+        "Tent",
+        "RV"
+    ],
+    "age": null,
+    "season": null,
+    "minPrice": null,
+    "maxPrice": 40,
+    "minStar": null,
+    "addressCountry": null
+},
+
+"sort": {
+    "field": null,
+    "direction": null
+}
+}
+
 `;
 
 
@@ -573,12 +631,20 @@ function filterHotelsWithAI(filters) {
         }
 
         if (filters.resorttype) {
-            const itemResortTypes = String(item.resorttype).split(",").map(type => type.trim().toLowerCase());
+          const itemResortTypes = String(item.resorttype)
+            .split(",")
+            .map(type => type.trim().toLowerCase());
+        
+          if (Array.isArray(filters.resorttype)) {
+            const requestedTypes = filters.resorttype.map(type => String(type).trim().toLowerCase());
+            const hasMatch = requestedTypes.some(reqType => itemResortTypes.includes(reqType));
+            if (!hasMatch) return false;
+          } else {
             const requestedResortType = String(filters.resorttype).trim().toLowerCase();
-
             if (!itemResortTypes.includes(requestedResortType)) {
-                return false;
+              return false;
             }
+          }
         }
 
         if (filters.age && String(item.age).trim().toLowerCase() !== String(filters.age).trim().toLowerCase()) {
