@@ -451,7 +451,8 @@ Return:
         "season": null,
         "minPrice": null,
         "maxPrice": null,
-        "minStar": null
+        "minStar": null,
+        "addressCountry" : null
     },
 
     "sort": {
@@ -601,6 +602,10 @@ function filterHotelsWithAI(filters) {
             if (Number(item.star) < Number(filters.minStar)) {
                 return false;
             }
+        }
+
+        if ( filters.addressCountry && String(item.address.addressCountry).trim().toLowerCase() !== String(filters.addressCountry).trim().toLowerCase() ) {
+             return false;
         }
 
         return true;
