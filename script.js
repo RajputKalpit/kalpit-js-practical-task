@@ -260,7 +260,7 @@ async function getData(){
 
     // AI Assistant
 
-const GEMINI_API_KEY = "AQ.Ab8RN6IBcmdQIqwkuSg310j6SjASvJDfKHc0Jk56vHnnUoMrrg";
+const GEMINI_API_KEY = "AQ.Ab8RN6LcLBpHO_16kJlUVMRQwHwGtmWJCMGbqkygDjwptN0YQA";
 const GEMINI_MODEL = "gemini-3.6-flash";
 const GEMINI_URL =`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 /* =========================================================
