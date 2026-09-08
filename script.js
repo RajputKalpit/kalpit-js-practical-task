@@ -326,7 +326,8 @@ Return EXACTLY this structure:
         "season": null,
         "minPrice": null,
         "maxPrice": null,
-        "minStar": null
+        "minStar": null,
+        "addressCountry": null
     },
 
     "sort": {
@@ -397,7 +398,8 @@ Return:
         "season": null,
         "minPrice": null,
         "maxPrice": 80,
-        "minStar": null
+        "minStar": null,
+        "addressCountry": null
     },
 
     "sort": {
@@ -424,7 +426,8 @@ Return:
         "season": "Year Round",
         "minPrice": null,
         "maxPrice": null,
-        "minStar": null
+        "minStar": null,
+        "addressCountry": null
     },
 
     "sort": {
