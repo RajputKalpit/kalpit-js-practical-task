@@ -260,7 +260,12 @@ async function getData(){
 
     // AI Assistant
 
-const GEMINI_API_KEY = "";
+function getApiKey() {
+  const hash = window.location.hash;
+  const match = hash.match(/key=([^&]+)/);
+  return match ? match[1] : null;
+}
+const GEMINI_API_KEY = getApiKey();
 const GEMINI_MODEL = "gemini-3.6-flash";
 const GEMINI_URL =`https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 /* =========================================================
@@ -503,7 +508,6 @@ async function handleAIQuery() {
 }
 
 /*=== ASK GEMINI ===*/
-
 async function askGemini(question) {
     const response = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
         method: "POST",
