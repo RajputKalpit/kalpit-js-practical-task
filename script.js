@@ -58,7 +58,7 @@ async function getData(){
     /*=== CARD ===*/
     const cardTemplate = (item) => `<div class="results__box border">
                 <div class="results__img">
-                    <img class="results__image border-end" src="${item.image ? item.image : './assets/images/Placeholder-image.jpg'}" alt="" />
+                    <img class="results__image border-end" src="${item.image ? item.image : 'https://dummyimage.com/567x420/000/fff'}" alt="placeholder" />
                 </div>
                 <div class="results__data">
                     <div class="results__left">
