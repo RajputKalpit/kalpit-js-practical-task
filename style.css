@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{list-style-type: none;}
+.results__box,.results__data{display: flex;}
+.results__box{ background-color: beige; margin-bottom: 20px;}
+.results__image{ max-height: 300px;}
+.results__left{ padding-left: 30px;}
+.results__data{ width: 100%; justify-content: space-between;}
+.results__left{display: flex; flex-direction: column; justify-content: space-around;}
+.results__right{ display: flex;align-items: center; justify-content: center; padding: 20px;}
+
+@media print {
+    body * {
+        visibility: hidden;
+    }
+    .results,
+    .results * {
+        visibility: visible;
+    }
+    .results {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+    }
+    .results img{ width: 100%; }
+}

@@ -1,0 +1,4820 @@
+[
+  {
+    "id": "30387",
+    "name": "Arbor Terrace",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Bradenton",
+      "addressRegion": "Florida",
+      "postalCode": "34207",
+      "streetAddress": "405 57th Avenue West"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.43976",
+      "longitude": "-82.5599"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 205-9908",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "46",
+    "resorttype": "RV",
+    "propertycode": "ARB",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "382",
+    "custombookinglink": "",
+    "reviewscount": "247"
+  },
+  {
+    "id": "30432",
+    "name": "Austin Lone Star RV Resort",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Austin",
+      "addressRegion": "Texas",
+      "postalCode": "78744",
+      "streetAddress": "7009 S IH 35 Frontage Rd, South Interstate 35 Frontage Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.185639",
+      "longitude": "-97.772926"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 725-4402",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "65",
+    "resorttype": "Lodging",
+    "propertycode": "ASR",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "384",
+    "custombookinglink": "",
+    "reviewscount": "394"
+  },
+  {
+    "id": "30399",
+    "name": "Baker Acres RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33540",
+      "streetAddress": "7820 Wire Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.271632",
+      "longitude": "-82.177248"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-6507",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "45",
+    "resorttype": "RV",
+    "propertycode": "BAA",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "3.9",
+    "parkid": "385",
+    "custombookinglink": "",
+    "reviewscount": "179"
+  },
+  {
+    "id": "30745",
+    "name": "Beachwood Resort",
+    "regionName": "Washington",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Blaine",
+      "addressRegion": "Washington",
+      "postalCode": "98230",
+      "streetAddress": "5001 Bay Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "48.9057109",
+      "longitude": "-122.7545248"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(360) 371-5006",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "46",
+    "resorttype": "Lodging",
+    "propertycode": "BEA",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "1421",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30442",
+    "name": "Big Tree RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Arcadia",
+      "addressRegion": "Florida",
+      "postalCode": "34266",
+      "streetAddress": "2626 NE Hwy 70"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.213691",
+      "longitude": "-81.831425"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-6508",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "44",
+    "resorttype": "Lodging",
+    "propertycode": "BIT",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "386",
+    "custombookinglink": "",
+    "reviewscount": "122"
+  },
+  {
+    "id": "30404",
+    "name": "Blue Jay MH & RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Dade City",
+      "addressRegion": "Florida",
+      "postalCode": "33525",
+      "streetAddress": "38511 Wilds Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.319216",
+      "longitude": "-82.17877"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866) 502-4987",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "42",
+    "resorttype": "Tent",
+    "propertycode": "BLJ",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "3.9",
+    "parkid": "388",
+    "custombookinglink": "",
+    "reviewscount": "94"
+  },
+  {
+    "id": "30405",
+    "name": "Blue Star RV Resort",
+    "regionName": "Arizona",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Apache Junction",
+      "addressRegion": "Arizona",
+      "postalCode": "85120",
+      "streetAddress": "11050 E Apache Trail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "33.417141",
+      "longitude": "-111.591989"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 220-2081",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "46",
+    "resorttype": "RV",
+    "propertycode": "BLU",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "418",
+    "custombookinglink": "",
+    "reviewscount": "125"
+  },
+  {
+    "id": "30357",
+    "name": "Blueberry Hill RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Bushnell",
+      "addressRegion": "Florida",
+      "postalCode": "33513",
+      "streetAddress": "6233 Lowery St."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.664777",
+      "longitude": "-82.137462"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 236-5504",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "47",
+    "resorttype": "Lodging,RV,Tent",
+    "propertycode": "BHL",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "389",
+    "custombookinglink": "",
+    "reviewscount": "303"
+  },
+  {
+    "id": "30352",
+    "name": "Buttonwood Bay",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sebring",
+      "addressRegion": "Florida",
+      "postalCode": "33876",
+      "streetAddress": "10001 U.S. 27 South"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.407046",
+      "longitude": "-81.416821"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 355-0646",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "38",
+    "resorttype": "Lodging",
+    "propertycode": "BUT",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "390",
+    "custombookinglink": "",
+    "reviewscount": "261"
+  },
+  {
+    "id": "30338",
+    "name": "Carolina Pines RV Resort",
+    "regionName": "South Carolina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Conway",
+      "addressRegion": "South Carolina",
+      "postalCode": "29526",
+      "streetAddress": "5800 SC-90"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "33.844485",
+      "longitude": "-78.843928"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 303-7096",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "68",
+    "resorttype": "RV,Lodging",
+    "propertycode": "CLN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "67",
+    "custombookinglink": "",
+    "reviewscount": "675"
+  },
+  {
+    "id": "30298",
+    "name": "Cava Robles RV Resort",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Paso Robles",
+      "addressRegion": "California",
+      "postalCode": "93446",
+      "streetAddress": "3800 Golden Hill Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "35.652118",
+      "longitude": "-120.660103"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866) 835-1677",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "78",
+    "resorttype": "Other",
+    "propertycode": "CVR",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "392",
+    "custombookinglink": "",
+    "reviewscount": "313"
+  },
+  {
+    "id": "30312",
+    "name": "Central Park MH & RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Haines City",
+      "addressRegion": "Florida",
+      "postalCode": "33844",
+      "streetAddress": "1501 W. Commerce Ave"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.118606",
+      "longitude": "-81.642857"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-8503",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "48",
+    "resorttype": "RV,Tent",
+    "propertycode": "CPR",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "393",
+    "custombookinglink": "",
+    "reviewscount": "155"
+  },
+  {
+    "id": "30421",
+    "name": "Citrus Hill RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Dade City",
+      "addressRegion": "Florida",
+      "postalCode": "33525",
+      "streetAddress": "9267 US Hwy 98"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.291488",
+      "longitude": "-82.137132"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-726-8593",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "38",
+    "resorttype": "Lodging",
+    "propertycode": "CIH",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "394",
+    "custombookinglink": "",
+    "reviewscount": "62"
+  },
+  {
+    "id": "30303",
+    "name": "Club Naples RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Naples",
+      "addressRegion": "Florida",
+      "postalCode": "34114",
+      "streetAddress": "3180 Beck Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.1549",
+      "longitude": "-81.6686"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800)-640-1896",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "56",
+    "resorttype": "Lodging",
+    "propertycode": "CNA",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "395",
+    "custombookinglink": "",
+    "reviewscount": "152"
+  },
+  {
+    "id": "30401",
+    "name": "Crown Villa RV Resort",
+    "regionName": "Oregon",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Bend",
+      "addressRegion": "Oregon",
+      "postalCode": "97702",
+      "streetAddress": "60801 Brosterhous Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "44.017377",
+      "longitude": "-121.296729"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888)-991-5349",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "35",
+    "resorttype": "RV,Lodging",
+    "propertycode": "CWV",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "961",
+    "custombookinglink": "",
+    "reviewscount": "469"
+  },
+  {
+    "id": "30368",
+    "name": "Daytona Beach RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Port Orange",
+      "addressRegion": "Florida",
+      "postalCode": "32129",
+      "streetAddress": "4601 S. Clyde Morris Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.13242",
+      "longitude": "-81.04265"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-725-9414",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "58",
+    "resorttype": "Lodging",
+    "propertycode": "DBH",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "397",
+    "custombookinglink": "",
+    "reviewscount": "253"
+  },
+  {
+    "id": "30373",
+    "name": "Dunedin RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Dunedin",
+      "addressRegion": "Florida",
+      "postalCode": "34698",
+      "streetAddress": "2920 Alternate 19 North"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.056648",
+      "longitude": "-82.77248"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 727-1507",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "62",
+    "resorttype": "RV",
+    "propertycode": "DDN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "398",
+    "custombookinglink": "",
+    "reviewscount": "248"
+  },
+  {
+    "id": "30425",
+    "name": "El Capitan Canyon",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Goleta",
+      "addressRegion": "California",
+      "postalCode": "93117",
+      "streetAddress": "11560 Calle Real"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "34.464615",
+      "longitude": "-120.022141"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866) 352-2729",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "Not Available",
+    "resorttype": "RV",
+    "propertycode": "ECP",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "",
+    "custombookinglink": "https://www.resontheweb.com/elcapitancanyon/",
+    "reviewscount": "441"
+  },
+  {
+    "id": "30363",
+    "name": "Ellenton Gardens RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Ellenton",
+      "addressRegion": "Florida",
+      "postalCode": "34222",
+      "streetAddress": "7310 US Hwy 301 N"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.538262",
+      "longitude": "-82.48888"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-3598",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "50",
+    "resorttype": "RV",
+    "propertycode": "ELG",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "399",
+    "custombookinglink": "",
+    "reviewscount": "202"
+  },
+  {
+    "id": "30380",
+    "name": "Flamingo Lake RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Jacksonville",
+      "addressRegion": "Florida",
+      "postalCode": "32218",
+      "streetAddress": "3640 Newcomb Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.455211",
+      "longitude": "-81.714787"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800)-782-4323",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "71",
+    "resorttype": "Lodging",
+    "propertycode": "FLA",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "827",
+    "custombookinglink": "",
+    "reviewscount": "1062"
+  },
+  {
+    "id": "30740",
+    "name": "Gig Harbor RV Resort",
+    "regionName": "Washington",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Gig Harbor",
+      "addressRegion": "Washington",
+      "postalCode": "98332",
+      "streetAddress": "9515 Burnham Dr"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "47.3448846",
+      "longitude": "-122.5969104"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(253) 858-8138",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "53",
+    "resorttype": "Lodging",
+    "propertycode": "GIG",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "967",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30419",
+    "name": "Glen Haven RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33541",
+      "streetAddress": "37251 Chancey Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.209647",
+      "longitude": "-82.198918"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-3609",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "34",
+    "resorttype": "RV",
+    "propertycode": "GLH",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "401",
+    "custombookinglink": "",
+    "reviewscount": "105"
+  },
+  {
+    "id": "30384",
+    "name": "Grand Lake RV & Golf Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Citra",
+      "addressRegion": "Florida",
+      "postalCode": "32113",
+      "streetAddress": "18545 Northwest 45th Avenue Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.42884",
+      "longitude": "-82.2202"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 723-1030",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "37",
+    "resorttype": "Lodging,RV",
+    "propertycode": "GLK",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "403",
+    "custombookinglink": "",
+    "reviewscount": "267"
+  },
+  {
+    "id": "30411",
+    "name": "Grove Ridge RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Dade City",
+      "addressRegion": "Florida",
+      "postalCode": "33525",
+      "streetAddress": "10721 US Hwy 98"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.312014",
+      "longitude": "-82.174336"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-3617",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "41",
+    "resorttype": "RV",
+    "propertycode": "GRR",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "404",
+    "custombookinglink": "",
+    "reviewscount": "73"
+  },
+  {
+    "id": "30314",
+    "name": "Groves RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Ft. Myers",
+      "addressRegion": "Florida",
+      "postalCode": "33908",
+      "streetAddress": "16175 John Morris Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.50578",
+      "longitude": "-81.9679"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888)-723-2278",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "https://image.shutterstock.com/image-photo/plastic-pallet-800-x-600-600w-1045888546.jpg",
+    "price": "45",
+    "resorttype": "Lodging,Other",
+    "propertycode": "GRO",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "405",
+    "custombookinglink": "",
+    "reviewscount": "117"
+  },
+  {
+    "id": "30385",
+    "name": "Hidden River RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Riverview",
+      "addressRegion": "Florida",
+      "postalCode": "33569",
+      "streetAddress": "12500 McMullen Loop Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.867254",
+      "longitude": "-82.287651"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-746-1847",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "50",
+    "resorttype": "Lodging",
+    "propertycode": "HIR",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "3.9",
+    "parkid": "406",
+    "custombookinglink": "",
+    "reviewscount": "172"
+  },
+  {
+    "id": "30389",
+    "name": "Homosassa River RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Homosassa Springs",
+      "addressRegion": "Florida",
+      "postalCode": "34448",
+      "streetAddress": "10200 West Fishbowl Dr."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.790588",
+      "longitude": "-82.601229"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-3714",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "45",
+    "resorttype": "RV",
+    "propertycode": "HRR",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "409",
+    "custombookinglink": "",
+    "reviewscount": "316"
+  },
+  {
+    "id": "30376",
+    "name": "Horseshoe Cove RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Bradenton",
+      "addressRegion": "Florida",
+      "postalCode": "34203",
+      "streetAddress": "5100 60th Street East"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.450912",
+      "longitude": "-82.486692"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 727-3715",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "49",
+    "resorttype": "RV,Other",
+    "propertycode": "HCV",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "410",
+    "custombookinglink": "",
+    "reviewscount": "211"
+  },
+  {
+    "id": "30364",
+    "name": "Indian Creek",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Ft. Myers Beach",
+      "addressRegion": "Florida",
+      "postalCode": "33931",
+      "streetAddress": "17340 San Carlos Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.48895",
+      "longitude": "-81.9432"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888)-726-6358",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "46",
+    "resorttype": "Lodging,RV",
+    "propertycode": "IND",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "411",
+    "custombookinglink": "",
+    "reviewscount": "381"
+  },
+  {
+    "id": "30302",
+    "name": "Indian Wells RV Resort",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Indio",
+      "addressRegion": "California",
+      "postalCode": "92201",
+      "streetAddress": "47340 Jefferson Street"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "33.703944",
+      "longitude": "-116.270433"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-3717",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "65",
+    "resorttype": "Lodging,RV",
+    "propertycode": "INW",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "412",
+    "custombookinglink": "",
+    "reviewscount": "158"
+  },
+  {
+    "id": "30410",
+    "name": "Jellystone Park™ at Birchwood Acres",
+    "regionName": "New York",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Greenfield Park",
+      "addressRegion": "New York",
+      "postalCode": "12435",
+      "streetAddress": "85 Martinfeld Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.740785",
+      "longitude": "-74.54437"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 726-7804",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "20",
+    "resorttype": "Lodging",
+    "propertycode": "JBA",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "89",
+    "custombookinglink": "",
+    "reviewscount": "375"
+  },
+  {
+    "id": "30409",
+    "name": "Jellystone Park™ at Larkspur",
+    "regionName": "Colorado",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Larkspur",
+      "addressRegion": "Colorado",
+      "postalCode": "80118",
+      "streetAddress": "650 Sky View Ln"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.267097",
+      "longitude": "-104.897863"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 726-7807",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "80",
+    "resorttype": "RV",
+    "propertycode": "JLS",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.7",
+    "parkid": "522",
+    "custombookinglink": "",
+    "reviewscount": "777"
+  },
+  {
+    "id": "30428",
+    "name": "Jellystone Park™ at Natural Bridge",
+    "regionName": "Virginia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Natural Bridge Station",
+      "addressRegion": "Virginia",
+      "postalCode": "24579",
+      "streetAddress": "16 Recreation Ln"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "37.608948",
+      "longitude": "-79.488745"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 991-5336",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "39",
+    "resorttype": "RV",
+    "propertycode": "JNB",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "35",
+    "custombookinglink": "",
+    "reviewscount": "1115"
+  },
+  {
+    "id": "30748",
+    "name": "Jellystone Park™ of Chicago",
+    "regionName": "Illinois",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Millbrook",
+      "addressRegion": "Illinois",
+      "postalCode": "60536",
+      "streetAddress": "8574 Millbrook Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.5940829",
+      "longitude": "-88.5407362"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 709-1180",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "81",
+    "resorttype": "RV",
+    "propertycode": "JCH",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "0.0",
+    "parkid": "1273",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30436",
+    "name": "Jellystone Park™ of Western New York",
+    "regionName": "New York",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "North Java",
+      "addressRegion": "New York",
+      "postalCode": "14113",
+      "streetAddress": "5204 Youngers Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.641422",
+      "longitude": "-78.310147"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 582-9135",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "49",
+    "resorttype": "RV,Lodging",
+    "propertycode": "JWN",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.2",
+    "parkid": "90",
+    "custombookinglink": "",
+    "reviewscount": "646"
+  },
+  {
+    "id": "30366",
+    "name": "Kissimmee South MH & RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Davenport",
+      "addressRegion": "Florida",
+      "postalCode": "33837",
+      "streetAddress": "3700 U.S. Hwy 17-92N"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.207859",
+      "longitude": "-81.573974"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-9616",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "KSS",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "413",
+    "custombookinglink": "",
+    "reviewscount": "151"
+  },
+  {
+    "id": "30382",
+    "name": "Lake Josephine RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sebring",
+      "addressRegion": "Florida",
+      "postalCode": "33876",
+      "streetAddress": "10809 US Highway 27 South"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.402863",
+      "longitude": "-81.417693"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-336-4203",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "LJO",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "415",
+    "custombookinglink": "",
+    "reviewscount": "124"
+  },
+  {
+    "id": "30371",
+    "name": "Lake San Marino",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Naples",
+      "addressRegion": "Florida",
+      "postalCode": "34110",
+      "streetAddress": "1000 Wiggins Pass Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.29439",
+      "longitude": "-81.7983"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-669-1972",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "51",
+    "resorttype": "RV,Lodging",
+    "propertycode": "LSM",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "416",
+    "custombookinglink": "",
+    "reviewscount": "122"
+  },
+  {
+    "id": "30367",
+    "name": "Lakeland RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Lakeland",
+      "addressRegion": "Florida",
+      "postalCode": "33805",
+      "streetAddress": "900 Old Combee Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.111096",
+      "longitude": "-81.939424"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-9802",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "51",
+    "resorttype": "RV,Lodging",
+    "propertycode": "LND",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "417",
+    "custombookinglink": "",
+    "reviewscount": "233"
+  },
+  {
+    "id": "30422",
+    "name": "Leaf Verde RV Resort",
+    "regionName": "Arizona",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Buckeye",
+      "addressRegion": "Arizona",
+      "postalCode": "85326",
+      "streetAddress": "1500 S Apache Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "33.431967",
+      "longitude": "-112.574005"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-427-2250",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "44",
+    "resorttype": "RV,Lodging",
+    "propertycode": "LEA",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "86",
+    "custombookinglink": "",
+    "reviewscount": "488"
+  },
+  {
+    "id": "30413",
+    "name": "Majestic Oaks RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33542",
+      "streetAddress": "3751 Laurel Valley Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.212694",
+      "longitude": "-82.161676"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-727-9803",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "42",
+    "resorttype": "RV,Lodging",
+    "propertycode": "MAO",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "419",
+    "custombookinglink": "",
+    "reviewscount": "109"
+  },
+  {
+    "id": "30375",
+    "name": "Marco Naples RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Naples",
+      "addressRegion": "Florida",
+      "postalCode": "34113",
+      "streetAddress": "100 Barefoot Williams Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.069956",
+      "longitude": "-81.713681"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-0749",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "59",
+    "resorttype": "RV,Lodging",
+    "propertycode": "MAN",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "420",
+    "custombookinglink": "",
+    "reviewscount": "90"
+  },
+  {
+    "id": "30394",
+    "name": "Mill Creek RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Kissimmee",
+      "addressRegion": "Florida",
+      "postalCode": "34744",
+      "streetAddress": "2775 Michigan Ave."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.328843",
+      "longitude": "-81.390806"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-0750",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "62",
+    "resorttype": "RV,Lodging",
+    "propertycode": "MIL",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "3.8",
+    "parkid": "421",
+    "custombookinglink": "",
+    "reviewscount": "203"
+  },
+  {
+    "id": "30412",
+    "name": "Naples RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Naples",
+      "addressRegion": "Florida",
+      "postalCode": "34114",
+      "streetAddress": "8230 Collier Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.1023",
+      "longitude": "-81.6871"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 676-8917",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "62",
+    "resorttype": "RV,Lodging",
+    "propertycode": "NGA",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "423",
+    "custombookinglink": "",
+    "reviewscount": "152"
+  },
+  {
+    "id": "30356",
+    "name": "North Lake Estates RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Moore Haven",
+      "addressRegion": "Florida",
+      "postalCode": "33471",
+      "streetAddress": "12044 E. SR78"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.98553",
+      "longitude": "-81.0993"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-690-2739",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "49",
+    "resorttype": "RV,Lodging",
+    "propertycode": "NLK",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "424",
+    "custombookinglink": "",
+    "reviewscount": "113"
+  },
+  {
+    "id": "30324",
+    "name": "Ocean Breeze Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Jensen Beach",
+      "addressRegion": "Florida",
+      "postalCode": "34957",
+      "streetAddress": "3000 NE Indian River Dr."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.241525",
+      "longitude": "-80.223798"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888)-319-1750",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "63",
+    "resorttype": "RV,Lodging",
+    "propertycode": "OBJ",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "425",
+    "custombookinglink": "",
+    "reviewscount": "321"
+  },
+  {
+    "id": "30435",
+    "name": "Ocean Mesa RV Resort",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Goleta",
+      "addressRegion": "California",
+      "postalCode": "93117",
+      "streetAddress": "100 El Capitan Terrace Ln"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "34.465225",
+      "longitude": "-120.025371"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866)-410-5783",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "100",
+    "resorttype": "RV,Lodging",
+    "propertycode": "OMS",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "965",
+    "custombookinglink": "",
+    "reviewscount": "367"
+  },
+  {
+    "id": "30416",
+    "name": "Oceanside RV Resort & Campground",
+    "regionName": "Oregon",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Coos Bay",
+      "addressRegion": "Oregon",
+      "postalCode": "97420",
+      "streetAddress": "90281 Cape Arago Highway"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.339496",
+      "longitude": "-124.354671"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-421-7520",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "52",
+    "resorttype": "RV,Lodging",
+    "propertycode": "OCS",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "426",
+    "custombookinglink": "",
+    "reviewscount": "438"
+  },
+  {
+    "id": "30393",
+    "name": "Orange City RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Orange City",
+      "addressRegion": "Florida",
+      "postalCode": "32763",
+      "streetAddress": "2300 East Graves Ave."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.948487",
+      "longitude": "-81.265465"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-691-2916",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "ORN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "427",
+    "custombookinglink": "",
+    "reviewscount": "659"
+  },
+  {
+    "id": "30414",
+    "name": "Palm Creek Resort & Residences",
+    "regionName": "Arizona",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Casa Grande",
+      "addressRegion": "Arizona",
+      "postalCode": "85122",
+      "streetAddress": "1110 North Henness Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "32.890499",
+      "longitude": "-111.705238"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 695-5146",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "PCK",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "428",
+    "custombookinglink": "",
+    "reviewscount": "479"
+  },
+  {
+    "id": "30362",
+    "name": "Pecan Park RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Jacksonville",
+      "addressRegion": "Florida",
+      "postalCode": "32218",
+      "streetAddress": "650 Pecan Park Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.513468",
+      "longitude": "-81.633798"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-746-1841",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "60",
+    "resorttype": "RV,Lodging",
+    "propertycode": "PEP",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "429",
+    "custombookinglink": "",
+    "reviewscount": "614"
+  },
+  {
+    "id": "30750",
+    "name": "Pleasant Beach Campground",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Sherkston",
+      "addressRegion": "Ontario",
+      "postalCode": "L0S 1R0",
+      "streetAddress": "342 Pleasant Beach Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.8682791",
+      "longitude": "-79.1248425"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "9058944249",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "Not Available",
+    "resorttype": "RV,Lodging",
+    "propertycode": "PLB",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "0.0",
+    "parkid": "1218",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30350",
+    "name": "Pleasant Lake RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Bradenton",
+      "addressRegion": "Florida",
+      "postalCode": "34203",
+      "streetAddress": "6633 53rd Avenue East"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.448813",
+      "longitude": "-82.473576"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-1779",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "55",
+    "resorttype": "RV,Lodging",
+    "propertycode": "PLL",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "433",
+    "custombookinglink": "",
+    "reviewscount": "125"
+  },
+  {
+    "id": "30353",
+    "name": "Rainbow RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Frostproof",
+      "addressRegion": "Florida",
+      "postalCode": "33843",
+      "streetAddress": "700 County Road 630A"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.75546",
+      "longitude": "-81.5751"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-701-9107",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "44",
+    "resorttype": "RV,Lodging",
+    "propertycode": "RBW",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "435",
+    "custombookinglink": "",
+    "reviewscount": "191"
+  },
+  {
+    "id": "30374",
+    "name": "Rainbow Village of Largo",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Largo",
+      "addressRegion": "Florida",
+      "postalCode": "33773",
+      "streetAddress": "11911 66th Street"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.880664",
+      "longitude": "-82.728535"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-1782",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "51",
+    "resorttype": "RV,Lodging",
+    "propertycode": "RVL",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "436",
+    "custombookinglink": "",
+    "reviewscount": "218"
+  },
+  {
+    "id": "30400",
+    "name": "Rainbow Village of Zephyrhills",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33541",
+      "streetAddress": "4150 Lane Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.218314",
+      "longitude": "-82.19488"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-1780",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "42",
+    "resorttype": "RV,Lodging",
+    "propertycode": "RVZ",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "437",
+    "custombookinglink": "",
+    "reviewscount": "161"
+  },
+  {
+    "id": "30378",
+    "name": "Red Oaks RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Bushnell",
+      "addressRegion": "Florida",
+      "postalCode": "33513",
+      "streetAddress": "5551 SW 18th Terrace"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.673989",
+      "longitude": "-82.135385"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 728-3611",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "41",
+    "resorttype": "RV,Lodging",
+    "propertycode": "REO",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "438",
+    "custombookinglink": "",
+    "reviewscount": "0"
+  },
+  {
+    "id": "30438",
+    "name": "Reunion Lake RV Resort",
+    "regionName": "Louisiana",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Ponchatoula",
+      "addressRegion": "Louisiana",
+      "postalCode": "70454",
+      "streetAddress": "43234 LA-445"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.483424",
+      "longitude": "-90.335273"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 336-4214",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "39",
+    "resorttype": "RV,Lodging",
+    "propertycode": "RLK",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "439",
+    "custombookinglink": "",
+    "reviewscount": "790"
+  },
+  {
+    "id": "30383",
+    "name": "Rock Crusher Canyon RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Crystal River",
+      "addressRegion": "Florida",
+      "postalCode": "34429",
+      "streetAddress": "237 S Rock Crusher Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.856654",
+      "longitude": "-82.538212"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 726-7805",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "ROC",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "442",
+    "custombookinglink": "",
+    "reviewscount": "441"
+  },
+  {
+    "id": "30437",
+    "name": "Sandy Lake MH & RV Resort",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Carrollton",
+      "addressRegion": "Texas",
+      "postalCode": "75006",
+      "streetAddress": "1915 Sandy Lake Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "32.968177",
+      "longitude": "-96.93091"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-3614",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SLA",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "3.7",
+    "parkid": "443",
+    "custombookinglink": "",
+    "reviewscount": "303"
+  },
+  {
+    "id": "30407",
+    "name": "Settler's Rest RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33541",
+      "streetAddress": "37549 Chancey Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.208086",
+      "longitude": "-82.194966"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-4614",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "39",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SET",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "444",
+    "custombookinglink": "",
+    "reviewscount": "65"
+  },
+  {
+    "id": "30427",
+    "name": "Shady Pines MH & RV Resort",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Galloway Township",
+      "addressRegion": "New Jersey",
+      "postalCode": "08205",
+      "streetAddress": "443 South 6th Ave."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.462213",
+      "longitude": "-74.507185"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-726-2440",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "70",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SYP",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.0",
+    "parkid": "237",
+    "custombookinglink": "",
+    "reviewscount": "80"
+  },
+  {
+    "id": "30381",
+    "name": "Shell Creek RV Resort & Marina",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Punta Gorda",
+      "addressRegion": "Florida",
+      "postalCode": "33982",
+      "streetAddress": "35711 Washington Loop Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.974564",
+      "longitude": "-81.89482"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-4710",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SCK",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "445",
+    "custombookinglink": "",
+    "reviewscount": "130"
+  },
+  {
+    "id": "30349",
+    "name": "Siesta Bay RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Ft. Myers",
+      "addressRegion": "Florida",
+      "postalCode": "33908",
+      "streetAddress": "19333 Summerlin Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.494024",
+      "longitude": "-81.956677"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 817-5710",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "48",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SIE",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "446",
+    "custombookinglink": "",
+    "reviewscount": "261"
+  },
+  {
+    "id": "30431",
+    "name": "Southern Charm RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33541",
+      "streetAddress": "37811 Chancey Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.209664",
+      "longitude": "-82.190714"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-4791",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "39",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SOC",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "447",
+    "custombookinglink": "",
+    "reviewscount": "183"
+  },
+  {
+    "id": "30752",
+    "name": "Southern Leisure RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Chiefland",
+      "addressRegion": "Florida",
+      "postalCode": "32626",
+      "streetAddress": "505 NW 21 Ave."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.4991715",
+      "longitude": "-82.866723"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(352) 284-9900",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "39",
+    "resorttype": "RV,Lodging",
+    "propertycode": "STH",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "1591",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30391",
+    "name": "Spanish Main MH & RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Thonotosassa",
+      "addressRegion": "Florida",
+      "postalCode": "33592",
+      "streetAddress": "12110 Spanish Main Resort Trail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.064547",
+      "longitude": "-82.305357"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-728-4794",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "49",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SPM",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "3.6",
+    "parkid": "448",
+    "custombookinglink": "",
+    "reviewscount": "282"
+  },
+  {
+    "id": "30360",
+    "name": "Sun Outdoors Arches Gateway",
+    "regionName": "Utah",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Moab",
+      "addressRegion": "Utah",
+      "postalCode": "84532",
+      "streetAddress": "1773 N Highway 191"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.600881",
+      "longitude": "-109.575359"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 418-8535",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "56",
+    "resorttype": "RV,Lodging",
+    "propertycode": "MOV",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "422",
+    "custombookinglink": "",
+    "reviewscount": "1018"
+  },
+  {
+    "id": "30742",
+    "name": "Sun Outdoors Association Island",
+    "regionName": "New York",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Henderson",
+      "addressRegion": "New York",
+      "postalCode": "13650",
+      "streetAddress": "15530 Snowshoe Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.8871182",
+      "longitude": "-76.2290861"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 709-1174",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "59",
+    "resorttype": "RV,Lodging",
+    "propertycode": "AIS",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "0.0",
+    "parkid": "1229",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30351",
+    "name": "Sun Outdoors Canyonlands Gateway",
+    "regionName": "Utah",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Moab",
+      "addressRegion": "Utah",
+      "postalCode": "84532",
+      "streetAddress": "13701 Highway 191"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.67894",
+      "longitude": "-109.687553"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 396-3630",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "60",
+    "resorttype": "RV,Lodging",
+    "propertycode": "ARC",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.1",
+    "parkid": "383",
+    "custombookinglink": "",
+    "reviewscount": "483"
+  },
+  {
+    "id": "30747",
+    "name": "Sun Outdoors Cape Charles",
+    "regionName": "Virginia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Cape Charles",
+      "addressRegion": "Virginia",
+      "postalCode": "23310",
+      "streetAddress": "1511 Townfield Drive"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "37.2891281",
+      "longitude": "-76.0111515"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(757) 331-3063",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "35",
+    "resorttype": "RV,Lodging",
+    "propertycode": "CST",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "0.0",
+    "parkid": "1295",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30335",
+    "name": "Sun Outdoors Cape Cod",
+    "regionName": "Massachusetts",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "East Falmouth",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02536",
+      "streetAddress": "176 Thomas B Landers Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.605898",
+      "longitude": "-70.576784"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 991-5331",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "58",
+    "resorttype": "RV,Lodging",
+    "propertycode": "CCD",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.9",
+    "parkid": "372",
+    "custombookinglink": "",
+    "reviewscount": "423"
+  },
+  {
+    "id": "30418",
+    "name": "Sun Outdoors Frontier Town",
+    "regionName": "Maryland",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Berlin",
+      "addressRegion": "Maryland",
+      "postalCode": "21811",
+      "streetAddress": "8428 Stephen Decatur Hwy"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.29154",
+      "longitude": "-75.15011"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 746-1860",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "35",
+    "resorttype": "RV,Lodging",
+    "propertycode": "FRO",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "230",
+    "custombookinglink": "",
+    "reviewscount": "1824"
+  },
+  {
+    "id": "30743",
+    "name": "Sun Outdoors Garden City Utah",
+    "regionName": "Utah",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Garden City",
+      "addressRegion": "Utah",
+      "postalCode": "84028",
+      "streetAddress": "2126 S Bear Lake Blvd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.9094499",
+      "longitude": "-111.3849717"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 946-5252",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "50",
+    "resorttype": "RV,Lodging",
+    "propertycode": "BWB",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "1266",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30396",
+    "name": "Sun Outdoors Islamorada",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Islamorada",
+      "addressRegion": "Florida",
+      "postalCode": "33036",
+      "streetAddress": "87425 Old Hwy 1"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "24.963106",
+      "longitude": "-80.56298"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 728-3617",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "",
+    "resorttype": "RV,Lodging",
+    "propertycode": "SBZ",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "3.4",
+    "parkid": "",
+    "custombookinglink": "",
+    "reviewscount": "7"
+  },
+  {
+    "id": "30347",
+    "name": "Sun Outdoors Key Largo",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Key Largo",
+      "addressRegion": "Florida",
+      "postalCode": "33037",
+      "streetAddress": "97680 Overseas Hwy"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "25.076906",
+      "longitude": "-80.462097"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-2433",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "84",
+    "resorttype": "RV,Lodging",
+    "propertycode": "RIP",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "440",
+    "custombookinglink": "",
+    "reviewscount": "169"
+  },
+  {
+    "id": "30443",
+    "name": "Sun Outdoors Lake Rudolph",
+    "regionName": "Indiana",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Santa Claus",
+      "addressRegion": "Indiana",
+      "postalCode": "47579",
+      "streetAddress": "78 North Holiday Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.121362",
+      "longitude": "-86.921314"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 929-7010",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "46",
+    "resorttype": "RV,Lodging",
+    "propertycode": "LAR",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "238",
+    "custombookinglink": "",
+    "reviewscount": "1001"
+  },
+  {
+    "id": "30429",
+    "name": "Sun Outdoors Lake Travis",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Austin",
+      "addressRegion": "Texas",
+      "postalCode": "78734",
+      "streetAddress": "5220 Hudson Bend Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.41563",
+      "longitude": "-97.92986"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 713-7208",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "62",
+    "resorttype": "RV,Lodging",
+    "propertycode": "LAH",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "414",
+    "custombookinglink": "",
+    "reviewscount": "373"
+  },
+  {
+    "id": "30379",
+    "name": "Sun Outdoors Lancaster County",
+    "regionName": "Pennsylvania",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Narvon",
+      "addressRegion": "Pennsylvania",
+      "postalCode": "17555",
+      "streetAddress": "576 Yellow Hill Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "40.193369",
+      "longitude": "-75.973478"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 663-4523",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "RV,Tent",
+    "propertycode": "LIW",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "234",
+    "custombookinglink": "",
+    "reviewscount": "501"
+  },
+  {
+    "id": "30339",
+    "name": "Sun Outdoors Marathon",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Marathon",
+      "addressRegion": "Florida",
+      "postalCode": "33050",
+      "streetAddress": "59151 Overseas Hwy"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "24.76951",
+      "longitude": "-80.943407"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 728-1737",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "84",
+    "resorttype": "RV,Tent",
+    "propertycode": "PLN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "430",
+    "custombookinglink": "",
+    "reviewscount": "185"
+  },
+  {
+    "id": "30354",
+    "name": "Sun Outdoors Moab Downtown",
+    "regionName": "Utah",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Moab",
+      "addressRegion": "Utah",
+      "postalCode": "84532",
+      "streetAddress": "555 South Main Street"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.5642615",
+      "longitude": "-109.5483018"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 415-3991",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "50",
+    "resorttype": "RV,Tent",
+    "propertycode": "CYL",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "391",
+    "custombookinglink": "",
+    "reviewscount": "604"
+  },
+  {
+    "id": "30301",
+    "name": "Sun Outdoors Mystic",
+    "regionName": "Connecticut",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Old Mystic",
+      "addressRegion": "Connecticut",
+      "postalCode": "06372",
+      "streetAddress": "45 Camp Ground Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.4000263",
+      "longitude": "-71.9599315"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 817-5696",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "56",
+    "resorttype": "RV,Tent",
+    "propertycode": "SPO",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "223",
+    "custombookinglink": "",
+    "reviewscount": "253"
+  },
+  {
+    "id": "30372",
+    "name": "Sun Outdoors North Moab",
+    "regionName": "Utah",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Moab",
+      "addressRegion": "Utah",
+      "postalCode": "84532",
+      "streetAddress": "1301 N Hwy 191"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.593228",
+      "longitude": "-109.568313"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 991-5329",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "43",
+    "resorttype": "RV,Tent",
+    "propertycode": "SRK",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "305",
+    "custombookinglink": "",
+    "reviewscount": "0"
+  },
+  {
+    "id": "30415",
+    "name": "Sun Outdoors Ocean City",
+    "regionName": "Maryland",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Berlin",
+      "addressRegion": "Maryland",
+      "postalCode": "21811",
+      "streetAddress": "12550 Eagles Nest Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.30755",
+      "longitude": "-75.121986"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 733-9497",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "81",
+    "resorttype": "RV,Tent",
+    "propertycode": "CAW",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "240",
+    "custombookinglink": "",
+    "reviewscount": "654"
+  },
+  {
+    "id": "30424",
+    "name": "Sun Outdoors Ocean City Gateway",
+    "regionName": "Maryland",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Whaleyville",
+      "addressRegion": "Maryland",
+      "postalCode": "21872",
+      "streetAddress": "11224 Dale Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.385111",
+      "longitude": "-75.311409"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 746-1858",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "45",
+    "resorttype": "RV,Tent",
+    "propertycode": "FTW",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "231",
+    "custombookinglink": "",
+    "reviewscount": "546"
+  },
+  {
+    "id": "30341",
+    "name": "Sun Outdoors Old Orchard Beach Downtown",
+    "regionName": "Maine",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Old Orchard Beach",
+      "addressRegion": "Maine",
+      "postalCode": "04064",
+      "streetAddress": "8 Cascade Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.52584",
+      "longitude": "-70.383546"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 303-7012",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "65",
+    "resorttype": "RV,Tent",
+    "propertycode": "HNP",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "219",
+    "custombookinglink": "",
+    "reviewscount": "349"
+  },
+  {
+    "id": "30392",
+    "name": "Sun Outdoors Orange Beach",
+    "regionName": "Alabama",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Orange Beach",
+      "addressRegion": "Alabama",
+      "postalCode": "36561",
+      "streetAddress": "22800 Canal Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.288797",
+      "longitude": "-87.637024"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 978-2080",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "63",
+    "resorttype": "RV,Tent",
+    "propertycode": "PAN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.6",
+    "parkid": "432",
+    "custombookinglink": "",
+    "reviewscount": "309"
+  },
+  {
+    "id": "30736",
+    "name": "Sun Outdoors Orlando ChampionsGate",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Davenport",
+      "addressRegion": "Florida",
+      "postalCode": "33896",
+      "streetAddress": "7500 Osceola Polk Line Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.2591203",
+      "longitude": "-81.5856683"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(863) 424-2791",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "46",
+    "resorttype": "RV,Tent",
+    "propertycode": "MMT",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "990",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30377",
+    "name": "Sun Outdoors Panama City Beach",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Panama City Beach",
+      "addressRegion": "Florida",
+      "postalCode": "32407",
+      "streetAddress": "1957 Allison Avenue"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "30.183743",
+      "longitude": "-85.78672"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 390-3466",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "89",
+    "resorttype": "RV,Tent",
+    "propertycode": "EMC",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "400",
+    "custombookinglink": "",
+    "reviewscount": "450"
+  },
+  {
+    "id": "30311",
+    "name": "Sun Outdoors Petoskey Bay Harbor",
+    "regionName": "Michigan",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Petoskey",
+      "addressRegion": "Michigan",
+      "postalCode": "49770",
+      "streetAddress": "5505 Charlevoix Ave"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "45.358191",
+      "longitude": "-85.054314"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 570-0999",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "RV,Tent",
+    "propertycode": "PTO",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "222",
+    "custombookinglink": "",
+    "reviewscount": "202"
+  },
+  {
+    "id": "30309",
+    "name": "Sun Outdoors Pigeon Forge",
+    "regionName": "Tennessee",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sevierville",
+      "addressRegion": "Tennessee",
+      "postalCode": "37862",
+      "streetAddress": "1004 Parkway"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "35.85224",
+      "longitude": "-83.567379"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 758-5267",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "29",
+    "resorttype": "RV,Tent",
+    "propertycode": "RPL",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.6",
+    "parkid": "441",
+    "custombookinglink": "",
+    "reviewscount": "915"
+  },
+  {
+    "id": "30426",
+    "name": "Sun Outdoors Rocky Mountains",
+    "regionName": "Colorado",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Granby",
+      "addressRegion": "Colorado",
+      "postalCode": "80446",
+      "streetAddress": "1051 Summit Trail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "40.093464",
+      "longitude": "-105.957343"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 303-7027",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "65",
+    "resorttype": "RV,Tent",
+    "propertycode": "RRR",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.1",
+    "parkid": "68",
+    "custombookinglink": "",
+    "reviewscount": "257"
+  },
+  {
+    "id": "30370",
+    "name": "Sun Outdoors Salt Lake City",
+    "regionName": "Utah",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "North Salt Lake",
+      "addressRegion": "Utah",
+      "postalCode": "84054",
+      "streetAddress": "1012 Recreation Way"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "40.830257",
+      "longitude": "-111.938696"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 421-7002",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "51",
+    "resorttype": "RV,Tent",
+    "propertycode": "PNY",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "434",
+    "custombookinglink": "",
+    "reviewscount": "605"
+  },
+  {
+    "id": "30439",
+    "name": "Sun Outdoors San Antonio West",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "San Antonio",
+      "addressRegion": "Texas",
+      "postalCode": "78251",
+      "streetAddress": "1120 West Loop 1604 North"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.444755",
+      "longitude": "-98.710098"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 207-1188",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "RV,Tent",
+    "propertycode": "BST",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "387",
+    "custombookinglink": "",
+    "reviewscount": "395"
+  },
+  {
+    "id": "30420",
+    "name": "Sun Outdoors San Diego Bay",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Chula Vista",
+      "addressRegion": "California",
+      "postalCode": "91910",
+      "streetAddress": "825 E Street"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "32.636617",
+      "longitude": "-117.101931"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(619) 489-3950",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "101",
+    "resorttype": "RV,Tent",
+    "propertycode": "CTV",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "680",
+    "custombookinglink": "",
+    "reviewscount": "167"
+  },
+  {
+    "id": "30397",
+    "name": "Sun Outdoors Sarasota",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sarasota",
+      "addressRegion": "Florida",
+      "postalCode": "34240",
+      "streetAddress": "7125 Fruitville Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.340232",
+      "longitude": "-82.426841"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 728-8729",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "68",
+    "resorttype": "RV,Tent",
+    "propertycode": "SFN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "449",
+    "custombookinglink": "",
+    "reviewscount": "1977"
+  },
+  {
+    "id": "30369",
+    "name": "Sun Outdoors St. Augustine",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "St. Augustine",
+      "addressRegion": "Florida",
+      "postalCode": "32086",
+      "streetAddress": "1505 State Road 207"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.851174",
+      "longitude": "-81.360994"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 394-6577",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "51",
+    "resorttype": "RV,Tent",
+    "propertycode": "CPS",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.5",
+    "parkid": "396",
+    "custombookinglink": "",
+    "reviewscount": "643"
+  },
+  {
+    "id": "30751",
+    "name": "Sun Outdoors Sugarloaf Key",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Summerland Key",
+      "addressRegion": "Florida",
+      "postalCode": "33042",
+      "streetAddress": "311 Johnson Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "24.655265",
+      "longitude": "-81.522209"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(833) 727-3423",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "",
+    "resorttype": "upcoming-resort",
+    "propertycode": "SGL",
+    "age": "",
+    "season": "",
+    "star": "0.0",
+    "parkid": "",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30417",
+    "name": "Sun Outdoors Texas Hill Country",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "New Braunfels",
+      "addressRegion": "Texas",
+      "postalCode": "78130",
+      "streetAddress": "131 Rueckle Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.673184",
+      "longitude": "-98.152382"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 746-1862",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "65",
+    "resorttype": "RV,Tent",
+    "propertycode": "HIL",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "408",
+    "custombookinglink": "",
+    "reviewscount": "842"
+  },
+  {
+    "id": "30402",
+    "name": "Sun Retreats Adirondack Gateway",
+    "regionName": "New York",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Gansevoort",
+      "addressRegion": "New York",
+      "postalCode": "12831",
+      "streetAddress": "427 Fortsville Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.23412",
+      "longitude": "-73.686011"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 818-6165",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "52",
+    "resorttype": "RV,Tent",
+    "propertycode": "ADI",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "215",
+    "custombookinglink": "",
+    "reviewscount": "207"
+  },
+  {
+    "id": "30306",
+    "name": "Sun Retreats Amherstburg",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Amherstburg",
+      "addressRegion": "Ontario",
+      "postalCode": "N9V 2Y7",
+      "streetAddress": "4610 Essex County Rd. 18 RR#1, Country Rd 18"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.098501",
+      "longitude": "-83.05546"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447265514",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "38",
+    "resorttype": "RV,Tent",
+    "propertycode": "WID",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.9",
+    "parkid": "213",
+    "custombookinglink": "",
+    "reviewscount": "355"
+  },
+  {
+    "id": "30322",
+    "name": "Sun Retreats Arran Lake",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Allenford",
+      "addressRegion": "Ontario",
+      "postalCode": "N0H 1A0",
+      "streetAddress": "53 Concession 12 West"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "44.502971",
+      "longitude": "-81.259729"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447265517",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "Not Available",
+    "resorttype": "RV,Tent",
+    "propertycode": "ALK",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.8",
+    "parkid": "203",
+    "custombookinglink": "",
+    "reviewscount": "19"
+  },
+  {
+    "id": "30386",
+    "name": "Sun Retreats Avalon",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Cape May Court House",
+      "addressRegion": "New Jersey",
+      "postalCode": "08210",
+      "streetAddress": "116 Swainton-Goshen Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.125266",
+      "longitude": "-74.810715"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 206-3232",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "RV,Tent",
+    "propertycode": "BTL",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "228",
+    "custombookinglink": "",
+    "reviewscount": "335"
+  },
+  {
+    "id": "30325",
+    "name": "Sun Retreats Blue Mountains",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Clarksburg",
+      "addressRegion": "Ontario",
+      "postalCode": "N0H 1J0",
+      "streetAddress": "496875 Grey Road 2"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "44.547143",
+      "longitude": "-80.434854"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447269424",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "33",
+    "resorttype": "RV,Tent",
+    "propertycode": "CRA",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.1",
+    "parkid": "204",
+    "custombookinglink": "",
+    "reviewscount": "79"
+  },
+  {
+    "id": "30337",
+    "name": "Sun Retreats Cape Cod",
+    "regionName": "Massachusetts",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Dennis Port",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02639",
+      "streetAddress": "184 Old Wharf Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.652592",
+      "longitude": "-70.14127"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-6510",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "77",
+    "resorttype": "RV,Tent",
+    "propertycode": "CHN",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.0",
+    "parkid": "216",
+    "custombookinglink": "",
+    "reviewscount": "117"
+  },
+  {
+    "id": "30423",
+    "name": "Sun Retreats Cape May",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Cape May",
+      "addressRegion": "New Jersey",
+      "postalCode": "08204",
+      "streetAddress": "720 Seashore Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.98373",
+      "longitude": "-74.907618"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 817-5697",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "57",
+    "resorttype": "RV,Tent",
+    "propertycode": "SHR",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "236",
+    "custombookinglink": "",
+    "reviewscount": "554"
+  },
+  {
+    "id": "30390",
+    "name": "Sun Retreats Cape May Wildwood",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Cape May",
+      "addressRegion": "New Jersey",
+      "postalCode": "08204",
+      "streetAddress": "669 Route 9"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.983218",
+      "longitude": "-74.90313"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 666-7035",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "57",
+    "resorttype": "RV,Tent",
+    "propertycode": "LLA",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.1",
+    "parkid": "991",
+    "custombookinglink": "",
+    "reviewscount": "653"
+  },
+  {
+    "id": "30332",
+    "name": "Sun Retreats Cayuga",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Cayuga",
+      "addressRegion": "Ontario",
+      "postalCode": "N0A 1E0",
+      "streetAddress": "107 Haldimand Hwy 54"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.962949",
+      "longitude": "-79.869336"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447273610",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "62",
+    "resorttype": "RV,Tent",
+    "propertycode": "GRS",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.0",
+    "parkid": "206",
+    "custombookinglink": "",
+    "reviewscount": "89"
+  },
+  {
+    "id": "30346",
+    "name": "Sun Retreats Flamborough",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Millgrove",
+      "addressRegion": "Ontario",
+      "postalCode": "L0R 1V0",
+      "streetAddress": "792 Safari Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.361945",
+      "longitude": "-80.021476"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447273698",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "",
+    "resorttype": "RV,Tent",
+    "propertycode": "GUL",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.9",
+    "parkid": "",
+    "custombookinglink": "",
+    "reviewscount": "223"
+  },
+  {
+    "id": "30361",
+    "name": "Sun Retreats Geneva on the Lake",
+    "regionName": "Ohio",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Geneva on the Lake",
+      "addressRegion": "Ohio",
+      "postalCode": "44041",
+      "streetAddress": "4710 Lake Road East"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.864162",
+      "longitude": "-80.925027"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 726-7802",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "57",
+    "resorttype": "RV,Tent",
+    "propertycode": "ICR",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "220",
+    "custombookinglink": "",
+    "reviewscount": "381"
+  },
+  {
+    "id": "30317",
+    "name": "Sun Retreats Georgian Bay",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Seguin",
+      "addressRegion": "Ontario",
+      "postalCode": "P2A 0B2",
+      "streetAddress": "105 Blue Lake Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "45.295558",
+      "longitude": "-79.97848"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447290698",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "49",
+    "resorttype": "RV,Tent",
+    "propertycode": "TRA",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.9",
+    "parkid": "212",
+    "custombookinglink": "",
+    "reviewscount": "49"
+  },
+  {
+    "id": "30340",
+    "name": "Sun Retreats Gun Lake",
+    "regionName": "Michigan",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Hopkins",
+      "addressRegion": "Michigan",
+      "postalCode": "49328",
+      "streetAddress": "2306 12th St."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.58915",
+      "longitude": "-85.663513"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 726-3931",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "61",
+    "resorttype": "RV,Tent",
+    "propertycode": "HID",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "218",
+    "custombookinglink": "",
+    "reviewscount": "216"
+  },
+  {
+    "id": "30406",
+    "name": "Sun Retreats Gwynn's Island",
+    "regionName": "Virginia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Gwynn",
+      "addressRegion": "Virginia",
+      "postalCode": "23066",
+      "streetAddress": "551 Buckchase Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "37.490981",
+      "longitude": "-76.274336"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 723-2535",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "51",
+    "resorttype": "RV,Tent",
+    "propertycode": "GWY",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.6",
+    "parkid": "232",
+    "custombookinglink": "",
+    "reviewscount": "144"
+  },
+  {
+    "id": "30344",
+    "name": "Sun Retreats Hay Bay",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Napanee",
+      "addressRegion": "Ontario",
+      "postalCode": "K7R 3K7",
+      "streetAddress": "665 South Shore Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "44.14702",
+      "longitude": "-76.957132"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447281774",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "42",
+    "resorttype": "RV,Tent",
+    "propertycode": "PPK",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.0",
+    "parkid": "210",
+    "custombookinglink": "",
+    "reviewscount": "111"
+  },
+  {
+    "id": "30331",
+    "name": "Sun Retreats Huntsville",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Huntsville",
+      "addressRegion": "Ontario",
+      "postalCode": "P1H 1N4",
+      "streetAddress": "85 Hutcheson Beach Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "45.338063",
+      "longitude": "-79.256872"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447269431",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "Not Available",
+    "resorttype": "RV,Tent",
+    "propertycode": "DLR",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.2",
+    "parkid": "205",
+    "custombookinglink": "",
+    "reviewscount": "128"
+  },
+  {
+    "id": "30345",
+    "name": "Sun Retreats Ipperwash",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Lambton Shores",
+      "addressRegion": "Ontario",
+      "postalCode": "N0N 1J3",
+      "streetAddress": "9537 Army Camp Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.195584",
+      "longitude": "-81.944777"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447284790",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "40",
+    "resorttype": "RV,Tent",
+    "propertycode": "SIB",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "211",
+    "custombookinglink": "",
+    "reviewscount": "102"
+  },
+  {
+    "id": "30365",
+    "name": "Sun Retreats Long Beach Island",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Barnegat",
+      "addressRegion": "New Jersey",
+      "postalCode": "08005",
+      "streetAddress": "30 Route 72"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.760492",
+      "longitude": "-74.314527"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-0390",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "66",
+    "resorttype": "RV,Tent",
+    "propertycode": "LBH",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "233",
+    "custombookinglink": "",
+    "reviewscount": "192"
+  },
+  {
+    "id": "30343",
+    "name": "Sun Retreats Nantahala",
+    "regionName": "North Carolina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sylva",
+      "addressRegion": "North Carolina",
+      "postalCode": "28779",
+      "streetAddress": "175 Tathams Creek Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "35.291621",
+      "longitude": "-83.26446"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 727-3606",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "61",
+    "resorttype": "RV,Tent",
+    "propertycode": "FTT",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.2",
+    "parkid": "217",
+    "custombookinglink": "",
+    "reviewscount": "77"
+  },
+  {
+    "id": "30433",
+    "name": "Sun Retreats New Point",
+    "regionName": "Virginia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "New Point",
+      "addressRegion": "Virginia",
+      "postalCode": "23125",
+      "streetAddress": "846 Sand Bank Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "37.344867",
+      "longitude": "-76.275177"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 681-9597",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "56",
+    "resorttype": "RV,Tent",
+    "propertycode": "NEW",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "235",
+    "custombookinglink": "",
+    "reviewscount": "195"
+  },
+  {
+    "id": "30316",
+    "name": "Sun Retreats Old Orchard Beach",
+    "regionName": "Maine",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Old Orchard Beach",
+      "addressRegion": "Maine",
+      "postalCode": "04064",
+      "streetAddress": "3 Old Orchard Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.506872",
+      "longitude": "-70.409465"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866) 305-0051",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "63",
+    "resorttype": "RV,Tent",
+    "propertycode": "WWH",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.1",
+    "parkid": "226",
+    "custombookinglink": "",
+    "reviewscount": "148"
+  },
+  {
+    "id": "30323",
+    "name": "Sun Retreats Penetanguishene",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Tiny",
+      "addressRegion": "Ontario",
+      "postalCode": "L9M 0S2",
+      "streetAddress": "240 Lafontaine Rd. East"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "44.779786",
+      "longitude": "-80.01199"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447279617",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "Not Available",
+    "resorttype": "RV,Tent",
+    "propertycode": "LFO",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.6",
+    "parkid": "208",
+    "custombookinglink": "",
+    "reviewscount": "46"
+  },
+  {
+    "id": "30319",
+    "name": "Sun Retreats Peters Pond",
+    "regionName": "Massachusetts",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sandwich",
+      "addressRegion": "Massachusetts",
+      "postalCode": "02563",
+      "streetAddress": "185 Cotuit Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.690111",
+      "longitude": "-70.479417"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 700-1280",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "61",
+    "resorttype": "RV,Tent",
+    "propertycode": "PET",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.1",
+    "parkid": "221",
+    "custombookinglink": "",
+    "reviewscount": "275"
+  },
+  {
+    "id": "30746",
+    "name": "Sun Retreats Pleasant Acres Farm",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Sussex",
+      "addressRegion": "New Jersey",
+      "postalCode": "07461",
+      "streetAddress": "61 Dewitt Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.2775517",
+      "longitude": "-74.63957909999999"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 611-0923",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "79",
+    "resorttype": "RV,Tent",
+    "propertycode": "PAC",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "0.0",
+    "parkid": "1278",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30434",
+    "name": "Sun Retreats Rehoboth Bay",
+    "regionName": "Delaware",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Millsboro",
+      "addressRegion": "Delaware",
+      "postalCode": "19966",
+      "streetAddress": "25491 Dogwood Lane"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "38.63111",
+      "longitude": "-75.16167"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 991-5324",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "",
+    "resorttype": "RV,Tent",
+    "propertycode": "LPR",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "",
+    "custombookinglink": "",
+    "reviewscount": "88"
+  },
+  {
+    "id": "30330",
+    "name": "Sun Retreats Rock River",
+    "regionName": "Illinois",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Hillsdale",
+      "addressRegion": "Illinois",
+      "postalCode": "61257",
+      "streetAddress": "3333 290th St N"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "41.547387",
+      "longitude": "-90.211358"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(855) 430-7243",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "57",
+    "resorttype": "RV,Tent",
+    "propertycode": "SSL",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "224",
+    "custombookinglink": "",
+    "reviewscount": "302"
+  },
+  {
+    "id": "30334",
+    "name": "Sun Retreats Sandbanks",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Cherry Valley",
+      "addressRegion": "Ontario",
+      "postalCode": "K0K 1P0",
+      "streetAddress": "37 Lake Avenue Lane"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.8954507",
+      "longitude": "-77.2007319"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447279795",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "Not Available",
+    "resorttype": "RV,Tent",
+    "propertycode": "LVE",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.5",
+    "parkid": "209",
+    "custombookinglink": "",
+    "reviewscount": "74"
+  },
+  {
+    "id": "30388",
+    "name": "Sun Retreats Sea Isle",
+    "regionName": "New Jersey",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Clermont",
+      "addressRegion": "New Jersey",
+      "postalCode": "08210",
+      "streetAddress": "1955 Route 9"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "39.149658",
+      "longitude": "-74.764052"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800) 647-8714",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "59",
+    "resorttype": "RV,Tent",
+    "propertycode": "DRI",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "229",
+    "custombookinglink": "",
+    "reviewscount": "292"
+  },
+  {
+    "id": "30741",
+    "name": "Sun Retreats Shenandoah Valley",
+    "regionName": "Virginia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Stuarts Draft",
+      "addressRegion": "Virginia",
+      "postalCode": "24477",
+      "streetAddress": "348 Lake Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "37.9979934",
+      "longitude": "-79.0266736"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(888) 709-1172",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "37",
+    "resorttype": "RV,Tent",
+    "propertycode": "SHN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "330",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30321",
+    "name": "Sun Retreats Sherkston Shores",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Sherkston",
+      "addressRegion": "Ontario",
+      "postalCode": "L0S 1R0",
+      "streetAddress": "490 Empire Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.87182",
+      "longitude": "-79.13677"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447284718",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "56",
+    "resorttype": "Lodging",
+    "propertycode": "SKS",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "239",
+    "custombookinglink": "",
+    "reviewscount": "2031"
+  },
+  {
+    "id": "30328",
+    "name": "Sun Retreats Silver Lake",
+    "regionName": "Michigan",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Mears",
+      "addressRegion": "Michigan",
+      "postalCode": "49436",
+      "streetAddress": "1441 N. 34th Ave"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.67202",
+      "longitude": "-86.473471"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 423-4150",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "46",
+    "resorttype": "Lodging",
+    "propertycode": "SLV",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "87",
+    "custombookinglink": "",
+    "reviewscount": "205"
+  },
+  {
+    "id": "30307",
+    "name": "Sun Retreats Stratford",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Bornholm",
+      "addressRegion": "Ontario",
+      "postalCode": "N0K 1A0",
+      "streetAddress": "6710 Line 46 RR 1"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.573378",
+      "longitude": "-81.184794"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447290725",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "30",
+    "resorttype": "Lodging",
+    "propertycode": "WOL",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.1",
+    "parkid": "214",
+    "custombookinglink": "",
+    "reviewscount": "94"
+  },
+  {
+    "id": "30318",
+    "name": "Sun Retreats Turkey Point",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Normandale",
+      "addressRegion": "Ontario",
+      "postalCode": "N0E 1W0",
+      "streetAddress": "61 Mole Side Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "42.715773",
+      "longitude": "-80.328421"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447273710",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "49",
+    "resorttype": "Lodging",
+    "propertycode": "HVY",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "3.9",
+    "parkid": "207",
+    "custombookinglink": "",
+    "reviewscount": "126"
+  },
+  {
+    "id": "30304",
+    "name": "Sun Retreats Wild Acres",
+    "regionName": "Maine",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Old Orchard Beach",
+      "addressRegion": "Maine",
+      "postalCode": "04064",
+      "streetAddress": "179 Saco Ave."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.509985",
+      "longitude": "-70.401096"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866) 493-1313",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "65",
+    "resorttype": "Lodging",
+    "propertycode": "WAC",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.3",
+    "parkid": "225",
+    "custombookinglink": "",
+    "reviewscount": "573"
+  },
+  {
+    "id": "30305",
+    "name": "Sun Retreats Willow Lake",
+    "regionName": "Ontario",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Canada",
+      "addressLocality": "Scotland",
+      "addressRegion": "Ontario",
+      "postalCode": "N0E 1R0",
+      "streetAddress": "14 Willow Lake Private Rd. RR 1"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "43.033858",
+      "longitude": "-80.361236"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "8447290724",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "",
+    "resorttype": "Lodging",
+    "propertycode": "WLL",
+    "age": "All Ages",
+    "season": "Seasonal",
+    "star": "4.4",
+    "parkid": "",
+    "custombookinglink": "",
+    "reviewscount": "156"
+  },
+  {
+    "id": "30430",
+    "name": "Sweetwater RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33541",
+      "streetAddress": "37647 Chancey Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.209455",
+      "longitude": "-82.193857"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 729-0696",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "35",
+    "resorttype": "Lodging",
+    "propertycode": "SWE",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "450",
+    "custombookinglink": "",
+    "reviewscount": "162"
+  },
+  {
+    "id": "30348",
+    "name": "Tampa East",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Dover",
+      "addressRegion": "Florida",
+      "postalCode": "33527",
+      "streetAddress": "4630 McIntosh Rd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.019465",
+      "longitude": "-82.244922"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-818-6170",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "50",
+    "resorttype": "Lodging",
+    "propertycode": "TAM",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.0",
+    "parkid": "451",
+    "custombookinglink": "",
+    "reviewscount": "247"
+  },
+  {
+    "id": "30753",
+    "name": "test load issue",
+    "regionName": "Alabama",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Orange Beach",
+      "addressRegion": "Alabama",
+      "postalCode": "36561",
+      "streetAddress": "22800 Canal Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "57.19971",
+      "longitude": "-77.40371"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "",
+    "resorttype": "Lodging",
+    "propertycode": "",
+    "age": "All Ages",
+    "season": "",
+    "star": "0.0",
+    "parkid": "1111111",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30313",
+    "name": "The Sands RV & Golf Resort",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Desert Hot Springs",
+      "addressRegion": "California",
+      "postalCode": "92240",
+      "streetAddress": "16400 Bubbling Wells Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "33.92683",
+      "longitude": "-116.482191"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877) 426-5882",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "32",
+    "resorttype": "Lodging",
+    "propertycode": "SDS",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.2",
+    "parkid": "452",
+    "custombookinglink": "",
+    "reviewscount": "213"
+  },
+  {
+    "id": "30749",
+    "name": "Themeworld RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Davenport",
+      "addressRegion": "Florida",
+      "postalCode": "33837",
+      "streetAddress": "2727 Frontage Rd"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.2251746",
+      "longitude": "-81.65634159999999"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(863) 424-8362",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "40",
+    "resorttype": "Lodging",
+    "propertycode": "TMW",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "0.0",
+    "parkid": "1303",
+    "custombookinglink": "",
+    "reviewscount": ""
+  },
+  {
+    "id": "30403",
+    "name": "Three Lakes",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Hudson",
+      "addressRegion": "Florida",
+      "postalCode": "34667",
+      "streetAddress": "10354 Smooth Water Dr."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.38859",
+      "longitude": "-82.6439"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-819-9502",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "47",
+    "resorttype": "Lodging",
+    "propertycode": "TLK",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "453",
+    "custombookinglink": "",
+    "reviewscount": "284"
+  },
+  {
+    "id": "30408",
+    "name": "Traveler's World RV Resort",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "San Antonio",
+      "addressRegion": "Texas",
+      "postalCode": "78214",
+      "streetAddress": "2617 Roosevelt Ave."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.376463",
+      "longitude": "-98.481272"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844)-726-2450",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "65",
+    "resorttype": "Lodging",
+    "propertycode": "TWD",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "454",
+    "custombookinglink": "",
+    "reviewscount": "528"
+  },
+  {
+    "id": "30440",
+    "name": "Treetops RV Resort",
+    "regionName": "Texas",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Arlington",
+      "addressRegion": "Texas",
+      "postalCode": "76015",
+      "streetAddress": "1901 W. Arbrook Blvd."
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "32.686499",
+      "longitude": "-97.141062"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 726-4410",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "Lodging",
+    "propertycode": "TTP",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "455",
+    "custombookinglink": "",
+    "reviewscount": "325"
+  },
+  {
+    "id": "30315",
+    "name": "Vines RV Resort",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Paso Robles",
+      "addressRegion": "California",
+      "postalCode": "93446",
+      "streetAddress": "88 Wellsona"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "35.697046",
+      "longitude": "-120.695733"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(877)-820-0940",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "68",
+    "resorttype": "Lodging",
+    "propertycode": "VIN",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "456",
+    "custombookinglink": "",
+    "reviewscount": "260"
+  },
+  {
+    "id": "30398",
+    "name": "Waters Edge RV Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Zephyrhills",
+      "addressRegion": "Florida",
+      "postalCode": "33540",
+      "streetAddress": "39146 Otis Allen Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.271933",
+      "longitude": "-82.168472"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(844) 729-0723",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "40",
+    "resorttype": "Lodging",
+    "propertycode": "WAE",
+    "age": "55+",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "458",
+    "custombookinglink": "",
+    "reviewscount": "92"
+  },
+  {
+    "id": "30320",
+    "name": "Wine Country RV Resort",
+    "regionName": "California",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Paso Robles",
+      "addressRegion": "California",
+      "postalCode": "93446",
+      "streetAddress": "2500 Airport Road"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "35.646651",
+      "longitude": "-120.639933"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(866) 550-2117",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "67",
+    "resorttype": "Lodging",
+    "propertycode": "WIC",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.4",
+    "parkid": "459",
+    "custombookinglink": "",
+    "reviewscount": "556"
+  },
+  {
+    "id": "30441",
+    "name": "Woodsmoke Camping Resort",
+    "regionName": "Florida",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "United States",
+      "addressLocality": "Fort Myers",
+      "addressRegion": "Florida",
+      "postalCode": "33908",
+      "streetAddress": "19551 South Tamiami Trail"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "26.4572",
+      "longitude": "-81.823119"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "(800)-231-5053",
+      "contactType": "Reservations and Booking"
+    },
+    "image": "",
+    "price": "61",
+    "resorttype": "Lodging",
+    "propertycode": "WSK",
+    "age": "All Ages",
+    "season": "Year Round",
+    "star": "4.3",
+    "parkid": "960",
+    "custombookinglink": "",
+    "reviewscount": "249"
+  }
+]
