@@ -299,6 +299,7 @@ The application contains hotel data with these fields:
 - season
 - star
 - reviewscount
+- addressCountry
 
 IMPORTANT:
 
